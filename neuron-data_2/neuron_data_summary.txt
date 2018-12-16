@@ -1,0 +1,9 @@
+number of primary neurons data:  4 
+tot length: 228.6 
+shortest length: 16.38 
+longest length: 142.30 
+
+number of secondary neurons data:  5 
+tot length: 1429.4 
+shortest length: 139.90 
+longest length: 441.46 
